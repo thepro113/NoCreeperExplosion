@@ -1,0 +1,5 @@
+version: 1.1
+name: NoCreeperExplosion
+main: com.thepro113.creeper.main
+author: the_pro_113
+description: A simple plugin that stops creepers from breaking blocks.
